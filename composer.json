@@ -1,0 +1,15 @@
+{
+    "name": "lizhi-dev/js-prototype",
+    "authors": [
+        {
+            "name": "zhaoyifan",
+            "email": "zhaoyifans@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
